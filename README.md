@@ -16,7 +16,7 @@
 | Ctrl + C   | Kill whatever you are running.  Also clears everything on current line |
 | Ctrl + D   | Exit the current shell when no process is running, or send EOF to a the running process |
 | Ctrl + Z   | Puts whatever you are running into a suspended background process. fg restores it |
-| Ctrl + _   | Undo the last command. (Underscore.  So it's actually Ctrl + Shift + minus) |
+| Ctrl + Shift + Minus   | Undo the last command. |
 | Ctrl + T   | Swap the last two characters before the cursor |
 | Ctrl + F   | Move cursor one character forward |
 | Ctrl + B   | Move cursor one character backward |
