@@ -20,8 +20,8 @@
 | Ctrl + T   | Swap the last two characters before the cursor |
 | Ctrl + F   | Move cursor one character forward |
 | Ctrl + B   | Move cursor one character backward |
-| Option + cmd + →  | Move cursor one word forward |
-| Option + cmd + ←  | Move cursor one word backward |
+| Option + → or Esc + F  | Move cursor one word forward |
+| Option + ← or Esc + B  | Move cursor one word backward |
 | Esc + T  | Swap the last two words before the cursor |
 | Esc + Backspace | Cut one word backwards using none alphabetic characters as delimiters |
 | Tab  | Auto-complete files and folder names |
